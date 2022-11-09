@@ -1,6 +1,6 @@
 #include <iostream>
 
-int Policz(int a, int b){
+int Policz(int a,  int b){
     return a+b;
 }
 int main() {
